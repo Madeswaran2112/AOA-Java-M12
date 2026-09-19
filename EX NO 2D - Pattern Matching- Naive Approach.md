@@ -1,6 +1,6 @@
 
 # EX 2D Pattern Matching using Naive Approach.
-## DATE:8-08-2026
+## DATE: 28/7/2026
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -31,8 +31,8 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
