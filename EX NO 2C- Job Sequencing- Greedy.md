@@ -1,6 +1,6 @@
 
 # EX 1C Job Sequencing using Greedy Approach
-## DATE: 5/08/2026
+## DATE: 28/7/2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -37,8 +37,8 @@ Your goal is to maximize total profit while completing the maximum number of job
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
