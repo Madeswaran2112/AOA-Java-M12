@@ -19,8 +19,8 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -67,7 +67,7 @@ The program successfully print all the numbers from 1 to N.
 
 
 # EX 2B Jump Game using Greedy Algorithm.
-## DATE: 1/08/2026
+## DATE: 28/7/2026
 ## AIM:
 To write a Java program to for given constraints.
 You are given an array of integers. Each number represents the maximum number of steps you can jump forward from that position.
@@ -87,8 +87,8 @@ If it is not possible to reach the end, return -1.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -130,7 +130,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1C Job Sequencing using Greedy Approach
-## DATE: 5/08/2026
+## DATE: 28/7/2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -167,8 +167,8 @@ Your goal is to maximize total profit while completing the maximum number of job
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
@@ -244,7 +244,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 2D Pattern Matching using Naive Approach.
-## DATE:8-08-2026
+## DATE: 28/7/2026
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -275,8 +275,8 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -326,7 +326,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 2E Pattern Matching using Manacher's Algorithm.
-## DATE:10-08-2026
+## DATE:28/7/2026
 
 ## AIM:
 To write a Java program for the following constraints.
@@ -361,8 +361,8 @@ using Manacher's Algorithm
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
