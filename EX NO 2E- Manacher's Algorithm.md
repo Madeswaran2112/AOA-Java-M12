@@ -1,6 +1,6 @@
 
 # EX 2E Pattern Matching using Manacher's Algorithm.
-## DATE:10-08-2026
+## DATE:28/7/2026
 
 ## AIM:
 To write a Java program for the following constraints.
@@ -35,8 +35,8 @@ using Manacher's Algorithm
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
