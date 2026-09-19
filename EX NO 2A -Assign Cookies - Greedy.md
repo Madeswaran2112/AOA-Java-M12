@@ -19,8 +19,8 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
